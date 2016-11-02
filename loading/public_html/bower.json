@@ -1,0 +1,27 @@
+{
+  "name": "loading",
+  "authors": [
+    "Wesly Nicholas Fernandez Jolon"
+  ],
+  "description": "loading bar",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "loading",
+    "html",
+    "bar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-route": "~1.5.8"
+  }
+}
